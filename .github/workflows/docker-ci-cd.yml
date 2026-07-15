@@ -15,7 +15,7 @@ on:
       - main
 
 env:
-  IMAGE_NAME: yourdockerhubusername/schoolbus-app
+  IMAGE_NAME: jyothilab/addresschange
 
 jobs:
   docker:
