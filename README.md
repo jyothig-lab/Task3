@@ -9,12 +9,12 @@ schoolbus-address-change/
 ├── docker-compose.yml
 ├── .env
 │
-├── app/
+├── app/backend
 │   ├── app.py
 │   ├── Dockerfile
 │   └── requirements.txt
 │
-├── nginx/
+├── nginx/frontend
 │   ├── nginx.conf
 │   └── index.html
 │
