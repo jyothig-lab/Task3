@@ -1,0 +1,8 @@
+name: Docker CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+# ...rest of your workflow...
